@@ -1,1 +1,25 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/alexandra/Desktop/PeaceWatcherPJ/target/scala-2.11/peacewatcherpj_2.11-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/peacewatcherpj_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataEng.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/DataEng.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Report$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Report$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Report.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Report.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$$anon$1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Producer$$anon$1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$consumeFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Consumer$$anonfun$consumeFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/Producer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexandra/Desktop/PeacewatcherProject/ProjectScala/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53132a9f-f884-4c29-a4b8-e8fc35ddd722" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$8efc54a2335c29464aa1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$8efc54a2335c29464aa1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$8efc54a2335c29464aa1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$a8c977257be9ce7ba852$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$a8c977257be9ce7ba852.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$a8c977257be9ce7ba852.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b380761df3e46079f94d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b380761df3e46079f94d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b380761df3e46079f94d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b5fe42dff1e6ff4847f2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b5fe42dff1e6ff4847f2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$b5fe42dff1e6ff4847f2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$db808577e49589ff0d48$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$db808577e49589ff0d48.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/config-classes/$db808577e49589ff0d48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Consumer$$anonfun$consumeFromKafka$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Consumer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Producer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Report$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/classes/Report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/update/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/target/scala-2.11/update/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectScala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rLWtn2prgeyvaLoJIMUwOZXFFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53132a9f-f884-4c29-a4b8-e8fc35ddd722" name="Default Changelist" comment="" />
+      <created>1618756068168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618756068168</updated>
+    </task>
+    <servers />
+  </component>
+</project>
