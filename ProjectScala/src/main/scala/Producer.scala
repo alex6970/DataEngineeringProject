@@ -27,6 +27,7 @@ object Producer {
 
     val pathToDataset = "src/main/resources/DataEng.csv"
 
+    // Initialization of Spark
     val conf = new SparkConf()
       .setAppName("Producer")
       .setMaster("local[*]") // here local mode. And * means you will use as much as you have cores.
@@ -47,6 +48,8 @@ object Producer {
 
     //val alertes = "Alerts"
 
+    // Initialization of Kafka properties
+    
     val props = new Properties()
     props.put("bootstrap.servers", "localhost:9092")
     props.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer")
@@ -62,7 +65,7 @@ object Producer {
     df.foreach{
       line => producer.send(new ProducerRecord(topic, "key", line.toString()))
         println(line)
-        Thread.sleep(60000)
+        Thread.sleep(60000) // send report every minute 
     }
       producer.close()
 
